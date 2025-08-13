@@ -2,6 +2,8 @@
 
 Welcome to my data analyst portfolio! Here, I showcase my skills in data analysis, visualization, and storytelling through various projects. I am passionate about uncovering insights from data and presenting them in a clear and compelling manner.
 
+**Note:** Raw data files are not included in this repository to keep it lightweight and focused on analysis and visualizations. Data for these projects is available upon request or can be found from the original sources mentioned.
+
 ## Case Studies
 
 ### Case Study 1: Cyclistic Bike Analysis
@@ -11,9 +13,8 @@ This project analyzes the bike-sharing data from Cyclistic, a fictional company.
 **Tools Used:** Excel, PowerPoint
 
 **Files:**
-*   [Case Study 1_How does a bike-share navigate speedy success.pdf](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%201/Case%20Study%201_How%20does%20a%20bike-share%20navigate%20speedy%20success.pdf)
-*   [Cyclistic Bike Analysis.pptx](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%201/Cyclistic%20Bike%20Analysis.pptx)
-*   [202408-divvy-tripdata.xlsx](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%201/202408-divvy-tripdata.xlsx)
+*   [Case Study 1_How does a bike-share navigate speedy success.pdf](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%201/Case%20Study%201_How%20does%20a%20bike-share%20navigate%20speedy%20success.pdf)
+*   [Cyclistic Bike Analysis.pptx](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%201/Cyclistic%20Bike%20Analysis.pptx)
 
 ### Case Study 2: Fitbit Data Analysis
 
@@ -22,9 +23,9 @@ This project explores Fitbit data to understand user behavior and patterns. The 
 **Tools Used:** Jupyter Notebook, Python
 
 **Files:**
-*   [Case Study 2_ How-can-a-wellness-technology-company-play-it-smart.pdf](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%202/Case%20Study%202_%20How-can-a-wellness-technology-company-play-it-smart.pdf)
-*   [Fitbit Data.ipynb](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%202/Fitbit%20Data.ipynb)
-*   [coursera_dacert_c2r_samplesql.docx](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%202/coursera_dacert_c2r_samplesql.docx)
+*   [Case Study 2_ How-can-a-wellness-technology-company-play-it-smart.pdf](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%202/Case%20Study%202_%20How-can-a-wellness-technology-company-play-it-smart.pdf)
+*   [Fitbit Data.ipynb](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%202/Fitbit%20Data.ipynb)
+*   [coursera_dacert_c2r_samplesql.docx](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%202/coursera_dacert_c2r_samplesql.docx)
 
 ### Case Study 3: Avocado Case Study
 
@@ -33,11 +34,10 @@ This project analyzes avocado prices and sales data to understand the factors th
 **Tools Used:** SQL, Tableau, Python, Excel
 
 **Files:**
-*   [Avocado Case Study.pptx](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%203/Avocado%20Case%20Study.pptx)
-*   [Avocado.sql](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%203/SQL/Avocado.sql)
-*   [Avocado Case Study.twb](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%203/Tableau/Avocado%20Case%20Study.twb)
-*   [Untitled.ipynb](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%203/Python/Untitled.ipynb)
-*   [avocado.xlsx](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Case%20Study/Case%20Study%203/Excel/avocado.xlsx)
+*   [Avocado Case Study.pptx](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%203/Avocado%20Case%20Study.pptx)
+*   [Avocado.sql](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%203/SQL/Avocado.sql)
+*   [Avocado Case Study.twb](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%203/Tableau/Avocado%20Case%20Study.twb)
+*   [Untitled.ipynb](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%203/Python/Untitled.ipynb)
 
 ## Power BI Projects
 
@@ -46,15 +46,14 @@ This project analyzes avocado prices and sales data to understand the factors th
 This project involves the creation of an interactive HR analysis dashboard using Power BI. The dashboard provides insights into employee demographics, recruitment, and performance.
 
 **Files:**
-*   [HR Analysis Dashboard.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/HR%20Analysis%20Dashboard.png)
-*   [Synoptic Project.pbix](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/PowerBI/Synoptic%20Project.pbix)
+*   [HR Analysis Dashboard.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/HR%20Analysis%20Dashboard.png)
 
 ## Visualizations
 
 Here are some of the visualizations I have created to communicate insights from data:
 
-*   [Average steps per day of the week.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Average%20steps%20per%20day%20of%20the%20week.png)
-*   [Average Steps per Hour of the Day.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Average%20Steps%20per%20Hour%20of%20the%20Day.png)
-*   [Distribution per User Types.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Distribution%20per%20User%20Types.png)
-*   [Fitbit - Total steps vs calories burned.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Fitbit%20-%20Total%20steps%20vs%20calories%20burned.png)
-*   [Avocado Case Study.png](https://github.com/RUSHANGT2/Data-Analyst-Portfolio/blob/main/Avocado%20Case%20Study.png)
+*   [Average steps per day of the week.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Average%20steps%20per%20day%20of%20the%20week.png)
+*   [Average Steps per Hour of the Day.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Average%20Steps%20per%20Hour%20of%20the%20Day.png)
+*   [Distribution per User Types.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Distribution%20per%20User%20Types.png)
+*   [Fitbit - Total steps vs calories burned.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Fitbit%20-%20Total%20steps%20vs%20calories%20burned.png)
+*   [Avocado Case Study.png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Avocado%20Case%20Study.png)

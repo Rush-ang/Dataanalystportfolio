@@ -1,0 +1,4 @@
+# Large data files
+*.csv
+*.xlsx
+*.pbix
