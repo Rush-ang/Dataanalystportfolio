@@ -4,6 +4,17 @@ Welcome to my data analyst portfolio! Here, I showcase my skills in data analysi
 
 **Note:** Raw data files are not included in this repository to keep it lightweight and focused on analysis and visualizations. Data for these projects is available upon request or can be found from the original sources mentioned.
 
+## Power BI Projects
+
+### HR Analysis Dashboard
+
+This project involves the creation of an interactive HR analysis dashboard using Power BI. The dashboard provides insights into employee demographics, recruitment, and performance.
+
+**Files:**
+*   [HR Analysis Dashboard(Power BI).png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/HR%20Analysis%20Dashboard(Power%20BI).png)
+
+![HR Analysis Dashboard(Power BI)](HR%20Analysis%20Dashboard(Power%20BI).png)
+
 ## Case Studies
 
 ### Case Study 1: Cyclistic Bike Analysis
@@ -47,14 +58,3 @@ This project analyzes avocado prices and sales data to understand the factors th
 *   [Untitled.ipynb](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/Case%20Study/Case%20Study%203/Python/Untitled.ipynb)
 
 ![Avocado Case Study](Avocado%20Case%20Study.png)
-
-## Power BI Projects
-
-### HR Analysis Dashboard
-
-This project involves the creation of an interactive HR analysis dashboard using Power BI. The dashboard provides insights into employee demographics, recruitment, and performance.
-
-**Files:**
-*   [HR Analysis Dashboard(Power BI).png](https://github.com/Rush-ang/Dataanalystportfolio/blob/main/HR%20Analysis%20Dashboard(Power%20BI).png)
-
-![HR Analysis Dashboard(Power BI)](HR%20Analysis%20Dashboard(Power%20BI).png)
