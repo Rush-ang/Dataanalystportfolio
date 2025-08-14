@@ -15,6 +15,12 @@ This project involves the creation of an interactive HR analysis dashboard using
 
 ![HR Analysis Dashboard(Power BI)](HR%20Analysis%20Dashboard(Power%20BI).png)
 
+## Coffee Shop Sales
+
+This project analyzes coffee shop sales data to identify trends and patterns. The analysis focuses on sales by product, time of day, and location.
+
+![Coffee Shop Sales](Coffee%20Shop%20Sales.jpg)
+
 ## Case Studies
 
 ### Case Study 1: Cyclistic Bike Analysis
